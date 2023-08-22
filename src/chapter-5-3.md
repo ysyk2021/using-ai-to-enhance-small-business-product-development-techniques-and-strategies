@@ -1,4 +1,4 @@
-# Reducing Time-to-Market and Risk with AI-Enabled Agile Development and Iteration
+
 
 ## Introduction
 

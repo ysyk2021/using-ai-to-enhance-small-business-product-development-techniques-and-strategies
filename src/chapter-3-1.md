@@ -1,5 +1,4 @@
-Identifying Your Product Development Goals and Objectives for Optimal Performance and Innovation
-================================================================================================================================================================
+
 
 Identifying your product development goals and objectives is critical to successfully implementing AI-enabled product development processes. This chapter will explore how small businesses can get started with AI-enabled product development by identifying their product development goals and objectives for optimal performance and innovation.
 

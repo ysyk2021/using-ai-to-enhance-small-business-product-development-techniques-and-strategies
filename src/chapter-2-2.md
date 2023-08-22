@@ -1,5 +1,4 @@
-Different Types of AI Techniques and Applications for Product Development Enhancement and Innovation
-================================================================================================================================================================================
+
 
 To effectively use AI for product development enhancement, it is important to have a strong understanding of the different types of AI techniques and applications that can be used. This chapter will provide an overview of the different types of AI techniques and their potential applications for product development enhancement and innovation.
 

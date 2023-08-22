@@ -1,4 +1,4 @@
-# Improving Quality and Efficiency of Your Product with AI-Enabled Optimization and Innovation
+
 
 ## Introduction
 

@@ -1,5 +1,4 @@
-Creating a Customized Roadmap for AI Implementation in Your Product Development Process
-=======================================================================================================================================================
+
 
 Creating a customized roadmap for AI implementation is critical to successfully implementing AI-enabled product development processes. This chapter will explore how small businesses can get started with AI-enabled product development by creating a customized roadmap for AI implementation in their product development process.
 
