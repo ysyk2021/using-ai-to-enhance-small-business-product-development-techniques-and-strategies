@@ -1,5 +1,4 @@
 
-
 Product development innovation is a key driver of success for small businesses, and AI technology can play a critical role in enabling innovation. This chapter will explore three strategies for using AI to enhance product development innovation.
 
 Enabling Customer-Centricity and Personalization with AI-Enabled Feedback and Recommendation

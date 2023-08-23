@@ -1,5 +1,4 @@
 
-
 In order to effectively use AI for product development enhancement, it is important to have a basic understanding of the technology and processes involved. This chapter will provide an overview of the fundamental concepts and algorithms used in AI for product analysis and optimization.
 
 What is AI?

@@ -1,5 +1,4 @@
 
-
 Evaluating the impact of AI on product development enhancement requires identifying key performance metrics and goals to track progress. This chapter will provide an overview of the important metrics and goals that small businesses should consider when implementing AI-enabled product development and innovation strategies.
 
 Key Performance Metrics for AI-Enabled Product Development

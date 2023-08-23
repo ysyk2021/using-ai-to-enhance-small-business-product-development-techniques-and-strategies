@@ -1,5 +1,4 @@
 
-
 While implementing AI for product development enhancement can offer many benefits, it is important to measure the return on investment (ROI) and effectiveness of this implementation. This chapter will provide an overview of the key metrics and methods for evaluating the impact of AI on product development enhancement.
 
 Key Metrics for Evaluating AI Impact
